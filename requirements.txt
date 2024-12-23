@@ -1,0 +1,16 @@
+# Literary Quotes Generator Project Requirements
+# Python Version: 3.8 or higher
+# Last Updated: 2024-12-22
+
+# Main Dependencies
+PyQt6==6.6.1                # GUI Framework
+PyQt6-Qt6==6.6.1           # Qt6 Bindings
+PyQt6-sip==13.6.0          # Python/C++ Bindings
+
+# Utilities
+packaging==23.2            # Package Version Management
+pillow==10.2.0            # Image Processing
+python-dateutil==2.8.2    # Date/Time Utilities
+six==1.16.0               # Python 2/3 Compatibility
+
+# Note: Install all dependencies using: pip install -r requirements.txt
